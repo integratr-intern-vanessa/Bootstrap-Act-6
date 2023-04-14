@@ -68,3 +68,19 @@ img {
     margin: 4em 0;
     padding: 0;
 }
+
+
+div.a {
+  text-align: justify;
+} 
+
+div.b {
+  text-align: center;
+  margin-top: none;
+
+} 
+
+div.c {
+  text-align: left;
+  
+} 
